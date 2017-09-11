@@ -1,0 +1,36 @@
+
+.navi {
+    border:1px solid #110f0f;
+    border-width:5px 0;
+    list-style:none;
+    margin:5px;
+    padding:10px;
+    text-align:center;
+}
+.navi li{
+display: inline;
+font-size: 30px;
+margin: 10px;
+}
+.navi a{
+    display:inline-block;
+    padding:10px;
+    color: green;
+}
+.technology{
+  display: inline-block;
+  border-width: thin;
+  border: 1px solid #110f0f
+  margin:0 auto;
+}
+.foo{
+  border:1px solid #110f0f;
+  border-width:5px 0;
+  margin:5px auto;
+  padding:5px;
+  text-align:center;
+}
+.home-part grid blog{
+
+  margin-top: 20px;
+}
